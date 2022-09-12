@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ishukhr
-
-- 👀 I’m interested in App dev, Game Dev and lil bit in Data science
-
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning svlete,a frontend framework.
 
 - 💞️ I’m looking to collaborate in projects and Open source, Working on own projects as well.
 
