@@ -1,6 +1,6 @@
-- 🌱 I’m currently learning svlete,a frontend framework.
+- 🌱 I’m currently doing Data Structures as well as doing development as well.
 
-- 💞️ I’m looking to collaborate in projects and Open source, Working on own projects as well.
+- 💞️ I’m looking to collaborate in projects and Open source.
 
 - 📫 How to reach me:
 
